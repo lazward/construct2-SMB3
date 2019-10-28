@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1572283549,
+	"version": 1572293368,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,12 @@
 		"media/sma4-jump.ogg",
 		"media/sma4-coin.m4a",
 		"media/sma4-coin.ogg",
+		"media/sma4-powerup.m4a",
+		"media/sma4-powerup.ogg",
+		"media/sma4-powerdown.m4a",
+		"media/sma4-powerdown.ogg",
+		"media/sma4-playerdown.m4a",
+		"media/sma4-playerdown.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
