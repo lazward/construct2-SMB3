@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1572293368,
+	"version": 1572305556,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,7 +10,8 @@
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite5-sheet0.png",
-		"images/tiledbackground.png",
+		"images/sprite4-sheet0.png",
+		"images/tiledbackground3.png",
 		"images/tilemap.png",
 		"media/sma4-jump.m4a",
 		"media/sma4-jump.ogg",
@@ -22,6 +23,10 @@
 		"media/sma4-powerdown.ogg",
 		"media/sma4-playerdown.m4a",
 		"media/sma4-playerdown.ogg",
+		"media/sma4-blockhit.m4a",
+		"media/sma4-blockhit.ogg",
+		"media/sma4-itemsprout.m4a",
+		"media/sma4-itemsprout.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
