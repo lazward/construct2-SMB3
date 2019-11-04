@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1572811407,
+	"version": 1572832639,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,8 @@
 		"images/tiledbackground3.png",
 		"images/tilemap.png",
 		"images/tilemap2.png",
+		"images/tiledbackground.png",
+		"images/tiledbackground2.png",
 		"media/sma4-jump.m4a",
 		"media/sma4-jump.ogg",
 		"media/sma4-coin.m4a",
