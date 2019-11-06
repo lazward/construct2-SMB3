@@ -1,12 +1,11 @@
 ﻿{
-	"version": 1572987306,
+	"version": 1573077679,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
 		"images/sprite-sheet0.png",
-		"images/sprite-sheet1.png",
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite5-sheet0.png",
@@ -36,6 +35,8 @@
 		"media/sma4-itemsprout.ogg",
 		"media/sma4-stomped.m4a",
 		"media/sma4-stomped.ogg",
+		"media/sma4-tailspin.m4a",
+		"media/sma4-tailspin.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
