@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574224661,
+	"version": 1574281014,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,12 +14,15 @@
 		"images/sprite8-sheet0.png",
 		"images/sprite8-sheet1.png",
 		"images/sprite8-sheet2.png",
+		"images/sprite12-sheet0.png",
 		"images/tiledbackground3.png",
 		"images/tilemap.png",
 		"images/tilemap2.png",
 		"images/tiledbackground.png",
 		"images/tiledbackground2.png",
 		"images/sprite9-sheet0.png",
+		"images/sprite11-sheet0.png",
+		"images/spritefont.png",
 		"media/sma4-jump.m4a",
 		"media/sma4-jump.ogg",
 		"media/sma4-coin.m4a",
